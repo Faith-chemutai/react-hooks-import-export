@@ -1,5 +1,5 @@
-function whoseHouse() {
+function WhoseHouse() {
     console.log("HAGRID'S HOUSE!");
   }
   
-  export default whoseHouse;
+  export default WhoseHouse;

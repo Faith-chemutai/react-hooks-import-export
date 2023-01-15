@@ -9,4 +9,4 @@ function gryffMascot() {
 }
 
 export { colors, gryffMascot };
-export default values
+export values
